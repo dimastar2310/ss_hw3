@@ -1,0 +1,8 @@
+cat a
+
+this is a text file
+looking for the word cat
+the program should print also cats
+after cats crat and lcat are printed
+the program shouldn’t print
+the word caats
